@@ -9,7 +9,6 @@ import sys
 import os
 
 ## Matthew Bergersen Lewis   
-## mbergersenlewis@tesla.com 
 ## June 18th 2018            
 ## v1                        
 
